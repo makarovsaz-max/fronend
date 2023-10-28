@@ -1,0 +1,12 @@
+Сущности/обьекты
+ - User
+   * userName
+   * email
+   * firstName
+   * lastName
+   * password
+   * again password
+
+    check telegram
+
+

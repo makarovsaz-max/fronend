@@ -5,7 +5,7 @@
 <template>
   <header>
     <div class="head">
-      <a href=""><i class="fa-sharp fa-solid fa-magnifying-glass fa-beat"></i></a>
+      <a href=""><i class="fa-sharp fa-solid fa-magnifying-glass"></i></a>
       <a href="">Главная</a>
       <a href="">Новости</a>
       <div class="head-logo">
@@ -13,7 +13,7 @@
       </div>
       <a href="">Турниры</a>
       <a href="">Магазин</a>
-      <a href=""><i class="fa-solid fa-user-plus"></i></a>
+      <a href="/auth" id="authform" ><i class="fa-solid fa-user-plus"></i></a>
     </div>
   </header>
 </template>
@@ -47,7 +47,6 @@
   color: red;
   text-shadow: 1px 1px 2px red, 0 0 2em red, 0 0 0.2em red;
 }
-
 
 
 </style>
